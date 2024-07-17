@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tacton-display { 
+
+	border: 1px solid pink;
+	margin-bottom: 1em;
+	padding: 2em;
+	
+	
+}
+.row {
+	display: flex;
+}
+.column { 
+	flex: 50%;
+	margin-right: 1em;
+
+}
