@@ -1,219 +1,219 @@
-uuid,Team,room,name,iteration,duration_ms,favorite,session,notes,prompt,intention,customTags,bodyTags,,
-1d2c2c87-dc09-4fbf-93bc-1369822d4eed,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,1,7351,0,1,-,-,-,-,-,,
-500573ba-9b9b-4825-a3b7-336ba77f7e76,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,2,9197,0,1,-,-,-,-,-,,
-d968414d-7ae9-4c6f-9da9-21740d5dd49f,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,3,9007,0,1,-,-,-,-,-,,
-11d185d9-1e86-4e20-8261-8f1ae00b4725,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,severin test 3,1,7607,0,1,-,-,-,-,-,,
-040b84e5-85fb-41d4-bcc0-febcf0d0cd2a,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,team_4-p_2,1,6684,0,1,-,-,-,-,-,,
-33a8c649-aa84-445d-bdaf-20babdd7a9f1,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,mario_prompt,1,8600,0,1,-,-,-,-,-,,
-56d4a4a7-9ad6-4266-9a7f-a3e924a30ef3,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,mario_prompt,2,7567,0,1,-,-,-,-,-,,
-a6dc290e-6b28-4a4e-bcf6-0388ea7c59f1,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,mario_prompt,3,8057,0,1,-,-,-,-,-,,
-1abb66cc-b963-4bde-bc6a-653f3af157f6,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,Mario Gustav Test 1,1,8333,0,1,-,-,-,-,-,,
-cdf045eb-0d2d-4b5c-b272-849372fbf049,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,mario_prompt,4,8159,0,1,-,walking,Mario doing a loop and bouncing on the stones,-,left forearm,,
-77671314-7bda-4d2c-8e0e-74d6d31cacb9,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,mario_prompt overdub,1,8159,0,1,-,walking,Mario doing a loop and bouncing on the stones,-,left forearm,,
-27e2cf0d-8ae4-49c4-b86d-fe221b09d205,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,team_4,1,4835,0,1,We tried to emphasize the movement and to translate it into vibration. It is not yet sharp and clear enough. If the actuators would be further apart than it would be easier to individualize them.,walking,Mario is running and jumping,Mario,"left forearm,right forearm",left forearm,right forearm
-2c45bc8b-e39e-4fbc-a097-20cdcf55ecec,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,4,4142,0,2,-,-,-,-,-,,
-de4e32de-41c6-4359-847b-c72aa09e1b3f,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,zipline 1,1,6174,0,2,-,sliding_down,mimic the vibration of the zipline on the hands,-,-,,
-1806e3ea-d63d-48b3-87a9-e16fa8639d1a,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,zipline,1,7565,0,2,-,-,-,-,-,,
-d9bcc71a-8daa-4727-96fb-a52682cfd531,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,Gustav Anchor,1,6787,0,2,"shoulder fells very interesting, very unusual/unknown  haptic feedback",raising an anchor,including the pushing motion combined with pressure on the arm as well as the shoulder / neck,-,"left shoulder,left forearm",,
-0bb02651-6012-40ab-9220-d72558f16066,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,zipline,2,6960,0,2,"only two actuators, one on each back of the hand",sliding on a zipline,mimic the vibration of the zipline in the hands,-,"left hand,right hand",,
-1792ab44-c324-42da-8697-b9b6c0793d85,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,1,8766,0,2,-,-,-,-,-,,
-a09eb354-d647-48cb-a656-a6ab059f9ac0,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,2,8985,0,2,-,-,-,-,-,,
+uuid,Team,room,name,iteration,duration_ms,favorite,session,notes,prompt,intention,customTags,bodyTags
+1d2c2c87-dc09-4fbf-93bc-1369822d4eed,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,1,7351,0,1,-,-,-,-,-
+500573ba-9b9b-4825-a3b7-336ba77f7e76,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,2,9197,0,1,-,-,-,-,-
+d968414d-7ae9-4c6f-9da9-21740d5dd49f,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,3,9007,0,1,-,-,-,-,-
+11d185d9-1e86-4e20-8261-8f1ae00b4725,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,severin test 3,1,7607,0,1,-,-,-,-,-
+040b84e5-85fb-41d4-bcc0-febcf0d0cd2a,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,team_4-p_2,1,6684,0,1,-,-,-,-,-
+33a8c649-aa84-445d-bdaf-20babdd7a9f1,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,mario_prompt,1,8600,0,1,-,-,-,-,-
+56d4a4a7-9ad6-4266-9a7f-a3e924a30ef3,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,mario_prompt,2,7567,0,1,-,-,-,-,-
+a6dc290e-6b28-4a4e-bcf6-0388ea7c59f1,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,mario_prompt,3,8057,0,1,-,-,-,-,-
+1abb66cc-b963-4bde-bc6a-653f3af157f6,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,Mario Gustav Test 1,1,8333,0,1,-,-,-,-,-
+cdf045eb-0d2d-4b5c-b272-849372fbf049,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,mario_prompt,4,8159,0,1,-,walking,Mario doing a loop and bouncing on the stones,-,left forearm
+77671314-7bda-4d2c-8e0e-74d6d31cacb9,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,mario_prompt overdub,1,8159,0,1,-,walking,Mario doing a loop and bouncing on the stones,-,left forearm
+27e2cf0d-8ae4-49c4-b86d-fe221b09d205,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,team_4,1,4835,0,1,We tried to emphasize the movement and to translate it into vibration. It is not yet sharp and clear enough. If the actuators would be further apart than it would be easier to individualize them.,walking,Mario is running and jumping,Mario,"left forearm,right forearm"
+2c45bc8b-e39e-4fbc-a097-20cdcf55ecec,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,team_4-p_1,4,4142,0,2,-,-,-,-,-
+de4e32de-41c6-4359-847b-c72aa09e1b3f,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,zipline 1,1,6174,0,2,-,sliding_down,mimic the vibration of the zipline on the hands,-,-
+1806e3ea-d63d-48b3-87a9-e16fa8639d1a,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,zipline,1,7565,0,2,-,-,-,-,-
+d9bcc71a-8daa-4727-96fb-a52682cfd531,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,Gustav Anchor,1,6787,0,2,"shoulder fells very interesting, very unusual/unknown  haptic feedback",raising an anchor,including the pushing motion combined with pressure on the arm as well as the shoulder / neck,-,"left shoulder,left forearm"
+0bb02651-6012-40ab-9220-d72558f16066,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,zipline,2,6960,0,2,"only two actuators, one on each back of the hand",sliding on a zipline,mimic the vibration of the zipline in the hands,-,"left hand,right hand"
+1792ab44-c324-42da-8697-b9b6c0793d85,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,1,8766,0,2,-,-,-,-,-
+a09eb354-d647-48cb-a656-a6ab059f9ac0,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,2,8985,0,2,-,-,-,-,-
 9a48ca07-20ad-4a6e-a9d4-ae0c72e1de99,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,3,4852,0,2,"actuators are placed along the arm in ascending order
 
 
-would be better if the top ones could be a bit stronger, the vibration on the shoulder is a bit lower",using a powerwash,mimic the recoil of the powerwash on the arm,-,"left hand,left forearm,left upper arm",,
-b8f1f903-4a21-474f-873a-86a83e21625a,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,team_4-p_2,3,1211,0,2,-,-,-,-,-,,
-6b6641bd-780c-4df7-8b13-23c4e79907fb,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,4,7040,0,2,-,-,-,-,-,,
-e6e62056-87f7-48d3-acaa-83b522dca0af,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,5,849,0,2,-,-,-,-,-,,
-ef870c3b-58f3-4796-a74c-89510a3d3610,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,6,6067,0,2,-,-,-,-,-,,
+would be better if the top ones could be a bit stronger, the vibration on the shoulder is a bit lower",using a powerwash,mimic the recoil of the powerwash on the arm,-,"left hand,left forearm,left upper arm"
+b8f1f903-4a21-474f-873a-86a83e21625a,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,team_4-p_2,3,1211,0,2,-,-,-,-,-
+6b6641bd-780c-4df7-8b13-23c4e79907fb,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,4,7040,0,2,-,-,-,-,-
+e6e62056-87f7-48d3-acaa-83b522dca0af,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,5,849,0,2,-,-,-,-,-
+ef870c3b-58f3-4796-a74c-89510a3d3610,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,6,6067,0,2,-,-,-,-,-
 599b57b3-6cd3-43f1-8649-e515c947b4b2,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa42,powerwash,7,8268,0,2,"the vibration on the face makes more sound that feeling, so it does not work that well
 1 is on the back of the hand
 3 is on the forearm
-2 and 4 on my face, anywhere except the mouth or eyes i think",using a powerwash,tried to mimic the way water splashes around and in your face.,-,"head,left upper arm,left forearm",,
+2 and 4 on my face, anywhere except the mouth or eyes i think",using a powerwash,tried to mimic the way water splashes around and in your face.,-,"head,left upper arm,left forearm"
 175395e4-60aa-438b-98c4-77ef9376f32f,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa43,Gustav Walking,1,6806,0,2,"fells  weird but good,",walking in strong wind,"tried to place them where most stress is in the legs, upper thighs
-making the exhaustion tangible",-,"left thigh,right thigh",,
+making the exhaustion tangible",-,"left thigh,right thigh"
 4b51035d-2885-4c24-8daf-37c152f5b1b9,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,powerwash,8,8509,1,2,"the vibration on the face makes more sound that feeling, so it does not work that well
 1 is on the back of the left hand
 3 is in the palm of the right hand
 2 on the right forearm
 4 on my face, anywhere except the mouth or eyes i think",using a powerwash,"tried to mimic the way water splashes around and in your face.
-added the recoil of the powerwash with 3 and 1",-,"head,left hand,right hand,right forearm",,
+added the recoil of the powerwash with 3 and 1",-,"head,left hand,right hand,right forearm"
 652731d0-575c-49b1-a3c4-e22e8a05a50e,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,climbing on a wall,1,7517,1,2,"1 on the left shoulder
 2 on the right shoulder
 3 in the neck on the spine
 4 on the chestbone",collaborative wall climb,"mimic the constant stress of it and the heavy work the muscles in the shoulders and chest have to do.
 transmitters 3 and 4 are supposed to communicate the stress physically and mentally in this situation
-the shoulder ones should show the constant contact of the shoulders of the two men",-,"left shoulder,right shoulder,chest,back",,
+the shoulder ones should show the constant contact of the shoulders of the two men",-,"left shoulder,right shoulder,chest,back"
 2e80f729-1521-4088-ac9f-614e42b84d11,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,hugging someone,1,8856,1,3,"1 on the soft part where the chest meets the belly
 2 on the side of the neck
 
 
-feels very warm and fuzzy",hugging someone,We wanted to simulate the feeling of someone coming close and the emotional dimension of the hug,left side of neck,"chest,head",,
+feels very warm and fuzzy",hugging someone,We wanted to simulate the feeling of someone coming close and the emotional dimension of the hug,left side of neck,"chest,head"
 b0b22778-e24a-471c-9e0b-bb9a04f230b2,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,hugging someone,2,8856,0,3,"1 on the soft part where the chest meets the belly
 2 on the side of the neck
 
 
-feels very warm and fuzzy",hugging someone,We wanted to simulate the feeling of someone coming close and the emotional dimension of the hug,left side of neck,"chest,head",,
-b6e9f9d0-c760-4370-aff7-26a3e23d85c0,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,hugging someone,3,111,0,3,-,-,-,-,-,,
+feels very warm and fuzzy",hugging someone,We wanted to simulate the feeling of someone coming close and the emotional dimension of the hug,left side of neck,"chest,head"
+b6e9f9d0-c760-4370-aff7-26a3e23d85c0,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,hugging someone,3,111,0,3,-,-,-,-,-
 8ffcd11c-09c1-401e-86ef-24f0c307e329,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,hugging someone,4,9952,1,3,3 right on the heart,-,"simulate the heartbeat of another person
-we did it with the keyboard to keep it rhythmically",heart,chest,,
+we did it with the keyboard to keep it rhythmically",heart,chest
 6c4a4e36-7086-4438-85e5-c8b8b22c1d20,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,splitscreen,1,8946,1,3,"1 and 2 on either side of the face at ezebrow level
 3 and 4 at the hands inside",-,"it is meant for two players, one has actuators 1 and 2 and the other has 3 and 4
 player 1 is the left side of the screen to simulate the claustrophobic tube
-player 2 is on the right side and is supposed to simulate the heavzylifting",-,"head,right hand,left hand",,
-5718b65d-61b8-48ce-9ab9-9ee3a08567af,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,1,8699,0,3,-,-,-,-,-,,
-0bd57e81-b67c-4d3d-b402-edcf51af0d46,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,2,4299,0,3,-,-,-,-,-,,
-d0552a4a-0cdb-4378-a273-9e2070b8342b,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,3,536,0,3,-,-,-,-,-,,
-9404b459-99ab-46bb-8cf3-038385e0e032,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,4,740,0,3,-,-,-,-,-,,
+player 2 is on the right side and is supposed to simulate the heavzylifting",-,"head,right hand,left hand"
+5718b65d-61b8-48ce-9ab9-9ee3a08567af,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,1,8699,0,3,-,-,-,-,-
+0bd57e81-b67c-4d3d-b402-edcf51af0d46,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,2,4299,0,3,-,-,-,-,-
+d0552a4a-0cdb-4378-a273-9e2070b8342b,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,3,536,0,3,-,-,-,-,-
+9404b459-99ab-46bb-8cf3-038385e0e032,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,4,740,0,3,-,-,-,-,-
 09182648-0d7c-46b6-9f49-c131cf8f9712,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,bandage,5,1094,1,3,1234 are around the wrist,-,"trying to recreate the circular motion of the bandage around the arm
-through many tactons in a fluent position",left forearm,left forearm,,
-69b4a29d-dd34-4fa9-bc10-fbf5ea9e7401,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_jump_clouds,2,7028,1,4,"actuators on top of feet, left and right, each two.",jumping on clouds,both feet simultaneously. higher intensity on clouds than mid air,"leftTopof Foot,rightTopofFoot",-,,
-046dc562-99cc-47b5-ab39-da8411f2ab53,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_jump_clouds_improved,1,4250,0,4,-,-,-,-,-,,
-75e5b34e-7baa-4397-8256-d80eb26812e1,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_jump_clouds_improved,2,1751,0,4,-,-,-,-,-,,
-61c15378-23bc-43f9-bea2-1faa485df973,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_sliding_down,2,6412,1,4,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 2: left foot big toe side, 3 right foot big toe side, 4 right foot little toe side",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt.","leftTopof Foot,rightTopofFoot",-,,
-d104dcfe-3ab0-4a34-af5c-097a8c2c74e9,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_sliding_down,3,6412,1,4,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 2: left foot big toe side, 3 right foot big toe side, 4 right foot little toe side",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt.","leftTopof Foot,rightTopofFoot",-,,
-a3b123a7-ce5e-4068-a34f-ca2ff9a48116,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_sliding_down,4,5737,1,4,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 4 right foot little toe side, 2 on the left shin, 3 on the right shin",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt, 2 tactons on the shins to simulate sand sprinkling onto your legs","leftTopof Foot,rightTopofFoot","left lower leg,right lower leg",,
-ecb6a21d-1406-4ed4-8443-dba1905c69d6,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,1,3026,0,1,-,-,-,-,-,,
-b3013fee-58ea-43b5-9c42-6d6b1b725379,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,2,3036,0,1,-,-,-,-,-,,
-c0363764-6063-4b1f-82b6-b6628fb56d12,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,3,7009,0,1,-,-,-,-,-,,
-c987d0a5-901f-4889-a34e-cf043cd2b86e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,4,8144,0,1,-,-,-,-,-,,
-36d54be3-e7dc-4f91-9447-361cb8d4f022,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,5,9768,0,1,-,-,-,-,-,,
-c08498cd-b76a-4220-95b8-bd1ba378ca06,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,6,8782,0,1,-,-,-,-,-,,
-8044e62b-eea8-447e-8e76-cc90cc261726,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,7,3531,0,1,-,-,-,-,-,,
-72b1e443-6869-4855-a6aa-9ef0079ee91e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,1,9219,0,1,-,-,-,-,-,,
-e0395b63-c511-472d-915c-b834ac3c00a5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,2,8521,0,1,-,-,-,-,-,,
-f66156ad-4fbe-453b-9df1-2a46fd7ce510,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,2,6437,0,1,-,mario,"when running and doing small jumps, there is less intense and gradient vibration. when hitting the coins, there is strong vibrations from multiple channels. when there is multiple coins, there is even stronger vibration on all channels",-,-,,
-9aee6f55-ab2d-4529-8d21-ed5e173d037f,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,3,7673,0,1,-,-,-,-,-,,
-f8edabc6-d850-43cd-ab1f-0417d5b3484c,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,4,347,0,1,-,-,-,-,-,,
-086abf81-9a7a-4f93-ab2c-beff8ca03ab2,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,3,8959,0,1,-,-,-,-,-,,
-692e171b-3c35-4df7-9aaa-f2c34502041a,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,5,9347,0,1,-,-,-,-,-,,
-b09cb9ae-cf68-4241-94ee-5dda81aa9ec9,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,4,9231,0,1,-,-,-,-,-,,
-75146f58-4ce4-4864-a99f-53bdfe016ee7,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3-p_2,5,9053,0,1,-,-,-,-,-,,
-eb21a049-3429-47e7-81ce-4c120f58fa0b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,6,8201,0,1,-,-,-,-,-,,
-82dee5b6-3aa0-4730-b157-6eaa356647d5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,6,9161,0,1,-,-,-,-,-,,
-9f2edcde-daaa-40b3-8c9d-185745ace1f9,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,7,7744,0,1,-,-,-,-,-,,
-60959c91-c623-4b67-9c89-65d7198f7968,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,7,8988,0,1,-,-,-,-,-,,
-30cb5ddd-3ce5-4618-aa1a-d38d65f78c39,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,8,8227,0,1,-,-,-,-,-,,
-028e8a6b-f239-4d07-b827-bc259ead3479,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3-p_1,8,9633,0,1,-,-,"when running and doing small jumps, there is less intense and gradient vibration. when hitting the coins, there is strong vibrations from multiple channels. when there is multiple coins, there is even stronger vibration on all channels (final)",-,-,,
-40a5face-6d9d-4580-98ce-112281c77fee,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,9,9968,0,1,-,-,-,-,-,,
-d25ba43e-607e-4cfb-a470-5aad0f8993f4,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,1,2458,0,1,-,-,-,-,-,,
-26a33f40-74c4-45dc-9424-498eeaf56b89,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,2,5520,0,1,-,-,-,-,-,,
-64c6c0dd-9aa7-4c32-8fd6-39541505eb4a,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,3,2101,0,1,-,-,-,-,-,,
-0da3a9d1-4755-4891-8c5c-39dc73f55ef4,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,4,8906,0,1,-,-,-,-,-,,
-a43af415-7ab0-45f8-80ca-be8d6bcaacb3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,5,9350,0,1,-,-,-,-,-,,
-78c217bc-ebc8-46bc-9377-302543a34624,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,6,10000,0,1,-,-,-,-,-,,
-c5fa45cd-4651-4026-b6d7-4528444179d3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,7,8895,0,1,-,-,-,-,-,,
-601cd2ad-d0a8-4aef-8fc8-47ea1bb913b5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,8,9036,0,1,-,-,-,-,-,,
-81eaff8d-f47f-4ec0-94ec-cb43e26c0b22,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,9,7625,0,1,-,-,-,-,-,,
-d024eb80-b4d5-4a14-ad00-dbf2f9490217,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,10,7527,1,1,"we wanted to make the cloud softer and more gradient, but it is not possible to post-edit the amplitude",-,"the cloud jumping is very soft (low amplitude) and subtle (gradient). The jump in the air is relatively more powerful, so higher amplitude but short duration. the climbing on the wall is high amplitude and multi channel because it means there is strong friction",-,-,,
-08091622-e234-4114-a671-e905bb729aa7,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,10,9358,0,1,-,-,-,-,-,,
-9d180c2d-54fd-4759-ae23-22f7041abae1,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,11,8319,0,1,-,-,-,-,-,,
-fd259637-4142-446b-afde-2e37f56506af,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,12,8346,0,2,-,-,-,-,-,,
-d68f42b8-5ee9-4a65-b1ba-228510e02cd8,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,13,6609,0,2,-,-,-,-,-,,
-fd8de1df-9468-468e-9adb-1793b538523b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,sliding_gabt,1,8194,0,2,-,sliding_down,i place the tactons on my palms so i can feel the zip line. i tried to mimic this sensations and also the one when the character step on the grass,-,"right hand,left hand",,
-28e9c690-8034-4d6a-a291-f1eda9b889d8,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,climbing_furry_beast,1,10001,0,2,would prefer if the amplitude can be smaller,climbing a furry beast,"I placed my tactons on my arm (two along the arm and two along the wrist), and it signifies that the character is climbing on the back of the furry beast and gradually reaching to the head. I use gentle and gradually changing vibration to express the furriness",-,"right upper arm,left upper arm,left hand,right hand",,
-32459370-43f7-4515-b4d7-47251210a1d3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,flying_in_the_sky,1,7687,0,2,-,-,-,-,-,,
-b9bf635c-0fe4-4829-b049-b35bb5b42f81,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,flying_in_the_sky,2,10000,0,2,-,-,-,-,-,,
-8550a52e-6652-402b-a2f8-a5d354e1dac1,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,flying_in_the_sky,3,9730,0,2,-,-,-,-,-,,
-08c99fb7-879a-488c-9de9-78f71096bb20,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,flying_in_the_sky,4,9916,0,2,-,-,"for everything in the flying_in_the_sky group, i just use two tactons that is placed in the left and right side of my wrist to create that spatial mapping of the wings, and they can sometimes be synchronous flapping (haptics), and sometimes the left wing/right wing flaps first, also indicating some direction change. the wind is very big and the character flies up in the clouds so it is gentle and relaxing, not very rapid flapping. i tried to add some gradient in vibration too",-,-,,
-801696d9-a4e8-4855-950c-efe04858984e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,flying_in_the_sky,5,10001,0,2,-,-,-,-,-,,
-dfb507cd-247e-4d19-95de-7a8317031673,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,1,1156,0,2,-,-,-,-,-,,
-d0f3bb99-bacf-4c4c-862e-1e3983d9150e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,2,496,0,2,-,-,-,-,-,,
-2b13ac47-d226-43e2-b9b8-b0428f7c03c5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,3,945,0,2,-,-,-,-,-,,
-5cc3a0e2-49e4-4db7-9257-9472d0f1f9fb,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,1,9998,0,2,-,-,-,-,-,,
-1deffc6f-a07e-4df9-9fa1-d9d0ad89c866,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,2,9968,0,2,-,-,-,-,-,,
-d5ee03d4-a72e-474c-ab33-f6c3eb98bbbe,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,3,9566,0,2,-,-,-,-,-,,
-aec1234a-f4c5-4d52-b4ac-bc60e003717a,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,4,6331,0,2,-,-,-,-,-,,
-d5c5ad9f-b22c-4a2b-8888-816bd3874f8c,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,5,8930,0,2,-,-,-,-,-,,
-85b72a59-2443-40be-a0b5-3e0e93bda9ac,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,6,3499,0,2,-,-,-,-,-,,
-8e31ab01-b3ea-40a9-a3dc-e3ab9eccf625,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,7,10001,1,2,we placed the actuators on our arms/palms to simulate that we are in control of the spaceship's handle,spaceship,"we intended to express the bouncing of the spaceship at the beginning of the landing process, then we designed for the last stage and landing itself.",-,"left hand,right hand,right upper arm,left upper arm",,
-502bebcc-c7e5-4d65-ad9a-4039702e5ac5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,time is running out,1,9915,0,2,-,-,-,-,-,,
-829dd05b-b8f0-413c-916c-bcc4f416fba9,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,time is running out,2,9480,0,2,-,-,-,-,-,,
-b258c82c-c12f-43cf-8111-337f151d01fe,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,time is running out,3,9480,1,2,"3 and 4 are in left and right hand. 1 is in the chest (right below neck), and.2 is in the forehead.",time is running out,"we placed tactons on our forehead, chest and left and right arms. the video looks very hectic with multiple chopping tasks. so we have very short but frequent vibration at the start in the left and right arm. Then when the time is slowly running out we add short intense vibration in the forehead and chest. The chest and forehead vibration really gives a sense of anxiety when we tried it on, very wierd. when it is final 3 seconds count down we make it very strong, and long, in forehead and chest, and then all of the places.",-,"head,left hand,right hand,chest",,
-802c0abc-03a4-4c64-a1e2-17ba4e1c79fa,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,1,9730,0,3,-,-,-,-,-,,
-4f5a9680-a4db-4832-b602-9c26c03e60d7,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,2,6093,0,3,-,-,-,-,-,,
-2051ca15-a4f4-4f7d-ab14-7084f448390b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,petting_a_dog,3,6159,0,3,-,-,-,-,-,,
-257934fb-d6bd-4e9f-9865-0ee1862937f3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,petting_gaby,1,9858,0,3,-,-,-,-,-,,
-aff3073a-a1f4-4f55-971a-c679acf39b31,3,f872f481-2b34-45cb-8c66-911bed6a13b3,t3_petting_a_dog,1,4299,1,3,we weren't able to explore the ease in and ease out effect because it is hard to change the amplitude. we also wanted to explore in the leg or on the side of the upper torso.,petting a dog,"we designed the tactons from the dog perspective. we placed the actuators in line starting with the actuator 1 near the shoulder, the 2 in the middle, 3 on the wrist and 4 on the hand. the pattern is divided in  to two sections, the first one is similuating when the human character is tapping on the dog leg and the second part when the character is sliing his hand along the dog's leg",-,"right forearm,right hand,right upper arm",,
-5082fc5e-ca7c-49d6-95b1-d921386bb7e8,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,4,9778,0,4,-,-,-,-,-,,
-b5b174bb-b755-4860-ae79-c5725901139b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,t1_using_a_powerwash,4,2798,1,4,"three actuators places on the forearm (no 1 closest to the ellbow), one actuator placed on the palm near the bottom of the thumb, the actuators are placed in a zick-zack pattern and not in a straight line to resemble the power washer going back and forth",using a powerwash,"showcase the water running through the device, taking the forearm as a reference resembling the pipe.",palm,"right forearm,right hand",,
-53573529-e317-4e51-9030-8e0d2b59b81e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,4,5774,0,4,-,-,-,-,-,,
-64f03be6-de9c-49a7-bcac-bb6c162d3fc1,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,5,9658,0,4,-,-,-,-,-,,
-b13875b3-8901-43ca-a339-d5aec3b9b1c6,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,6,9455,0,4,-,-,-,-,-,,
-9c1f3426-2dd5-4942-bfb5-3719f93a603c,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,5,5341,0,4,-,-,-,-,-,,
-b63b21e3-6f9f-418d-8b01-9303aeb98c81,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa23,team_2-p_2,1,2430,0,1,-,-,test,-,-,,
-ce169472-07ad-463f-ab1a-df0a26d3962b,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2-p_2,2,2430,0,1,-,-,-,-,-,,
-f24aaad6-2f6a-4e1c-a59b-35716a915e6e,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,drinking,1,1580,0,1,-,-,-,-,-,,
+through many tactons in a fluent position",left forearm,left forearm
+69b4a29d-dd34-4fa9-bc10-fbf5ea9e7401,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_jump_clouds,2,7028,1,4,"actuators on top of feet, left and right, each two.",jumping on clouds,both feet simultaneously. higher intensity on clouds than mid air,"leftTopof Foot,rightTopofFoot",-
+046dc562-99cc-47b5-ab39-da8411f2ab53,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_jump_clouds_improved,1,4250,0,4,-,-,-,-,-
+75e5b34e-7baa-4397-8256-d80eb26812e1,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_jump_clouds_improved,2,1751,0,4,-,-,-,-,-
+61c15378-23bc-43f9-bea2-1faa485df973,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_sliding_down,2,6412,1,4,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 2: left foot big toe side, 3 right foot big toe side, 4 right foot little toe side",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt.","leftTopof Foot,rightTopofFoot",-
+d104dcfe-3ab0-4a34-af5c-097a8c2c74e9,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_sliding_down,3,6412,1,4,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 2: left foot big toe side, 3 right foot big toe side, 4 right foot little toe side",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt.","leftTopof Foot,rightTopofFoot",-
+a3b123a7-ce5e-4068-a34f-ca2ff9a48116,4,4ec34f34-97f9-44b5-bc53-1a321aaaaa41,t2_sliding_down,4,5737,1,4,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 4 right foot little toe side, 2 on the left shin, 3 on the right shin",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt, 2 tactons on the shins to simulate sand sprinkling onto your legs","leftTopof Foot,rightTopofFoot","left lower leg,right lower leg"
+ecb6a21d-1406-4ed4-8443-dba1905c69d6,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,1,3026,0,1,-,-,-,-,-
+b3013fee-58ea-43b5-9c42-6d6b1b725379,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,2,3036,0,1,-,-,-,-,-
+c0363764-6063-4b1f-82b6-b6628fb56d12,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,3,7009,0,1,-,-,-,-,-
+c987d0a5-901f-4889-a34e-cf043cd2b86e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,4,8144,0,1,-,-,-,-,-
+36d54be3-e7dc-4f91-9447-361cb8d4f022,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,5,9768,0,1,-,-,-,-,-
+c08498cd-b76a-4220-95b8-bd1ba378ca06,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,6,8782,0,1,-,-,-,-,-
+8044e62b-eea8-447e-8e76-cc90cc261726,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3,7,3531,0,1,-,-,-,-,-
+72b1e443-6869-4855-a6aa-9ef0079ee91e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,1,9219,0,1,-,-,-,-,-
+e0395b63-c511-472d-915c-b834ac3c00a5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,2,8521,0,1,-,-,-,-,-
+f66156ad-4fbe-453b-9df1-2a46fd7ce510,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,2,6437,0,1,-,mario,"when running and doing small jumps, there is less intense and gradient vibration. when hitting the coins, there is strong vibrations from multiple channels. when there is multiple coins, there is even stronger vibration on all channels",-,-
+9aee6f55-ab2d-4529-8d21-ed5e173d037f,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,3,7673,0,1,-,-,-,-,-
+f8edabc6-d850-43cd-ab1f-0417d5b3484c,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,4,347,0,1,-,-,-,-,-
+086abf81-9a7a-4f93-ab2c-beff8ca03ab2,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,3,8959,0,1,-,-,-,-,-
+692e171b-3c35-4df7-9aaa-f2c34502041a,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,5,9347,0,1,-,-,-,-,-
+b09cb9ae-cf68-4241-94ee-5dda81aa9ec9,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,4,9231,0,1,-,-,-,-,-
+75146f58-4ce4-4864-a99f-53bdfe016ee7,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3-p_2,5,9053,0,1,-,-,-,-,-
+eb21a049-3429-47e7-81ce-4c120f58fa0b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,6,8201,0,1,-,-,-,-,-
+82dee5b6-3aa0-4730-b157-6eaa356647d5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,6,9161,0,1,-,-,-,-,-
+9f2edcde-daaa-40b3-8c9d-185745ace1f9,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,team_3-p_1,7,7744,0,1,-,-,-,-,-
+60959c91-c623-4b67-9c89-65d7198f7968,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,7,8988,0,1,-,-,-,-,-
+30cb5ddd-3ce5-4618-aa1a-d38d65f78c39,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,8,8227,0,1,-,-,-,-,-
+028e8a6b-f239-4d07-b827-bc259ead3479,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,team_3-p_1,8,9633,0,1,-,-,"when running and doing small jumps, there is less intense and gradient vibration. when hitting the coins, there is strong vibrations from multiple channels. when there is multiple coins, there is even stronger vibration on all channels (final)",-,-
+40a5face-6d9d-4580-98ce-112281c77fee,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,9,9968,0,1,-,-,-,-,-
+d25ba43e-607e-4cfb-a470-5aad0f8993f4,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,1,2458,0,1,-,-,-,-,-
+26a33f40-74c4-45dc-9424-498eeaf56b89,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,2,5520,0,1,-,-,-,-,-
+64c6c0dd-9aa7-4c32-8fd6-39541505eb4a,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,3,2101,0,1,-,-,-,-,-
+0da3a9d1-4755-4891-8c5c-39dc73f55ef4,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,4,8906,0,1,-,-,-,-,-
+a43af415-7ab0-45f8-80ca-be8d6bcaacb3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,5,9350,0,1,-,-,-,-,-
+78c217bc-ebc8-46bc-9377-302543a34624,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,6,10000,0,1,-,-,-,-,-
+c5fa45cd-4651-4026-b6d7-4528444179d3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,7,8895,0,1,-,-,-,-,-
+601cd2ad-d0a8-4aef-8fc8-47ea1bb913b5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,8,9036,0,1,-,-,-,-,-
+81eaff8d-f47f-4ec0-94ec-cb43e26c0b22,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,9,7625,0,1,-,-,-,-,-
+d024eb80-b4d5-4a14-ad00-dbf2f9490217,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,cloud_jump,10,7527,1,1,"we wanted to make the cloud softer and more gradient, but it is not possible to post-edit the amplitude",-,"the cloud jumping is very soft (low amplitude) and subtle (gradient). The jump in the air is relatively more powerful, so higher amplitude but short duration. the climbing on the wall is high amplitude and multi channel because it means there is strong friction",-,-
+08091622-e234-4114-a671-e905bb729aa7,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,10,9358,0,1,-,-,-,-,-
+9d180c2d-54fd-4759-ae23-22f7041abae1,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,11,8319,0,1,-,-,-,-,-
+fd259637-4142-446b-afde-2e37f56506af,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,12,8346,0,2,-,-,-,-,-
+d68f42b8-5ee9-4a65-b1ba-228510e02cd8,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,team_3-p_2,13,6609,0,2,-,-,-,-,-
+fd8de1df-9468-468e-9adb-1793b538523b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,sliding_gabt,1,8194,0,2,-,sliding_down,i place the tactons on my palms so i can feel the zip line. i tried to mimic this sensations and also the one when the character step on the grass,-,"right hand,left hand"
+28e9c690-8034-4d6a-a291-f1eda9b889d8,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,climbing_furry_beast,1,10001,0,2,would prefer if the amplitude can be smaller,climbing a furry beast,"I placed my tactons on my arm (two along the arm and two along the wrist), and it signifies that the character is climbing on the back of the furry beast and gradually reaching to the head. I use gentle and gradually changing vibration to express the furriness",-,"right upper arm,left upper arm,left hand,right hand"
+32459370-43f7-4515-b4d7-47251210a1d3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,flying_in_the_sky,1,7687,0,2,-,-,-,-,-
+b9bf635c-0fe4-4829-b049-b35bb5b42f81,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,flying_in_the_sky,2,10000,0,2,-,-,-,-,-
+8550a52e-6652-402b-a2f8-a5d354e1dac1,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,flying_in_the_sky,3,9730,0,2,-,-,-,-,-
+08c99fb7-879a-488c-9de9-78f71096bb20,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,flying_in_the_sky,4,9916,0,2,-,-,"for everything in the flying_in_the_sky group, i just use two tactons that is placed in the left and right side of my wrist to create that spatial mapping of the wings, and they can sometimes be synchronous flapping (haptics), and sometimes the left wing/right wing flaps first, also indicating some direction change. the wind is very big and the character flies up in the clouds so it is gentle and relaxing, not very rapid flapping. i tried to add some gradient in vibration too",-,-
+801696d9-a4e8-4855-950c-efe04858984e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,flying_in_the_sky,5,10001,0,2,-,-,-,-,-
+dfb507cd-247e-4d19-95de-7a8317031673,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,1,1156,0,2,-,-,-,-,-
+d0f3bb99-bacf-4c4c-862e-1e3983d9150e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,2,496,0,2,-,-,-,-,-
+2b13ac47-d226-43e2-b9b8-b0428f7c03c5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,3,945,0,2,-,-,-,-,-
+5cc3a0e2-49e4-4db7-9257-9472d0f1f9fb,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,1,9998,0,2,-,-,-,-,-
+1deffc6f-a07e-4df9-9fa1-d9d0ad89c866,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,2,9968,0,2,-,-,-,-,-
+d5ee03d4-a72e-474c-ab33-f6c3eb98bbbe,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,3,9566,0,2,-,-,-,-,-
+aec1234a-f4c5-4d52-b4ac-bc60e003717a,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,4,6331,0,2,-,-,-,-,-
+d5c5ad9f-b22c-4a2b-8888-816bd3874f8c,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,5,8930,0,2,-,-,-,-,-
+85b72a59-2443-40be-a0b5-3e0e93bda9ac,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,6,3499,0,2,-,-,-,-,-
+8e31ab01-b3ea-40a9-a3dc-e3ab9eccf625,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,landing_spaceship,7,10001,1,2,we placed the actuators on our arms/palms to simulate that we are in control of the spaceship's handle,spaceship,"we intended to express the bouncing of the spaceship at the beginning of the landing process, then we designed for the last stage and landing itself.",-,"left hand,right hand,right upper arm,left upper arm"
+502bebcc-c7e5-4d65-ad9a-4039702e5ac5,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,time is running out,1,9915,0,2,-,-,-,-,-
+829dd05b-b8f0-413c-916c-bcc4f416fba9,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,time is running out,2,9480,0,2,-,-,-,-,-
+b258c82c-c12f-43cf-8111-337f151d01fe,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,time is running out,3,9480,1,2,"3 and 4 are in left and right hand. 1 is in the chest (right below neck), and.2 is in the forehead.",time is running out,"we placed tactons on our forehead, chest and left and right arms. the video looks very hectic with multiple chopping tasks. so we have very short but frequent vibration at the start in the left and right arm. Then when the time is slowly running out we add short intense vibration in the forehead and chest. The chest and forehead vibration really gives a sense of anxiety when we tried it on, very wierd. when it is final 3 seconds count down we make it very strong, and long, in forehead and chest, and then all of the places.",-,"head,left hand,right hand,chest"
+802c0abc-03a4-4c64-a1e2-17ba4e1c79fa,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,1,9730,0,3,-,-,-,-,-
+4f5a9680-a4db-4832-b602-9c26c03e60d7,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,2,6093,0,3,-,-,-,-,-
+2051ca15-a4f4-4f7d-ab14-7084f448390b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,petting_a_dog,3,6159,0,3,-,-,-,-,-
+257934fb-d6bd-4e9f-9865-0ee1862937f3,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa31,petting_gaby,1,9858,0,3,-,-,-,-,-
+aff3073a-a1f4-4f55-971a-c679acf39b31,3,f872f481-2b34-45cb-8c66-911bed6a13b3,t3_petting_a_dog,1,4299,1,3,we weren't able to explore the ease in and ease out effect because it is hard to change the amplitude. we also wanted to explore in the leg or on the side of the upper torso.,petting a dog,"we designed the tactons from the dog perspective. we placed the actuators in line starting with the actuator 1 near the shoulder, the 2 in the middle, 3 on the wrist and 4 on the hand. the pattern is divided in  to two sections, the first one is similuating when the human character is tapping on the dog leg and the second part when the character is sliing his hand along the dog's leg",-,"right forearm,right hand,right upper arm"
+5082fc5e-ca7c-49d6-95b1-d921386bb7e8,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,4,9778,0,4,-,-,-,-,-
+b5b174bb-b755-4860-ae79-c5725901139b,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,t1_using_a_powerwash,4,2798,1,4,"three actuators places on the forearm (no 1 closest to the ellbow), one actuator placed on the palm near the bottom of the thumb, the actuators are placed in a zick-zack pattern and not in a straight line to resemble the power washer going back and forth",using a powerwash,"showcase the water running through the device, taking the forearm as a reference resembling the pipe.",palm,"right forearm,right hand"
+53573529-e317-4e51-9030-8e0d2b59b81e,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,4,5774,0,4,-,-,-,-,-
+64f03be6-de9c-49a7-bcac-bb6c162d3fc1,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,5,9658,0,4,-,-,-,-,-
+b13875b3-8901-43ca-a339-d5aec3b9b1c6,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa33,sliding_gab,6,9455,0,4,-,-,-,-,-
+9c1f3426-2dd5-4942-bfb5-3719f93a603c,3,4ec34f34-97f9-44b5-bc53-1a321aaaaa32,petting_a_dog,5,5341,0,4,-,-,-,-,-
+b63b21e3-6f9f-418d-8b01-9303aeb98c81,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa23,team_2-p_2,1,2430,0,1,-,-,test,-,-
+ce169472-07ad-463f-ab1a-df0a26d3962b,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2-p_2,2,2430,0,1,-,-,-,-,-
+f24aaad6-2f6a-4e1c-a59b-35716a915e6e,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,drinking,1,1580,0,1,-,-,-,-,-
 481b5cea-62ab-47b8-a7c5-c31dc4b0f3d1,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,drinking,2,5685,0,1,"it probably could be more subtle and smooth, maybe an overlap would be beneficial. so even so lowest vibration was a bit too much.",drinking,"drinking big and loud gulps, 
 smashing the glass back on the table,
-the vibration travels along the palm towards the mouth, like bringing the glass and liquid towards the mouth,",palm,RightHand,,
-b56d9e6b-db9a-4a7e-bacf-7fda8d3d89b3,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2,1,388,0,2,-,-,-,-,-,,
-c811be2f-d41e-4019-b793-d511a61797ae,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2,2,1337,0,2,-,-,-,-,-,,
+the vibration travels along the palm towards the mouth, like bringing the glass and liquid towards the mouth,",palm,RightHand
+b56d9e6b-db9a-4a7e-bacf-7fda8d3d89b3,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2,1,388,0,2,-,-,-,-,-
+c811be2f-d41e-4019-b793-d511a61797ae,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2,2,1337,0,2,-,-,-,-,-
 da8d9acf-ac6a-4983-b6c8-3553eb65e072,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,petting a dog,2,2430,0,3,-,petting a dog,"The hand stroking a dog has the actuators attached to the thumb (1), index finger (2), ring finger (3) and side of the palm near the base of the little finger, to have a distributed sense overall the hand touching the fur of the dog. I started by using the thumb as a first vibration point, but it quickly felt unnatural, as the index finger feels like the most prominent place of touch (most sensory data to brain?). 
 
 
-the vibration could be even more gentle than the lowest setting",-,right hand,,
-6177c95c-1edb-47d6-bda9-aee13c516e2a,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa22,flying_in_the_sky_v1,1,8066,0,2,"similar lenghs on highest setting to simulate high alitudes and string winds in the sky, fighting against winds",flying in the sky,"flying in the sky, placed under arms to simulate wing musculature movement, flapping arms up and down in order to glide in sky",-,"left upper arm,left forearm,right upper arm,right forearm",,
-2cb8f9ff-8454-485d-9129-fd71ca329275,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa23,team_2-p_2,3,1748,0,2,-,-,-,-,-,,
-27709cbe-d00c-4307-9c24-134655ab8a23,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa23,team_2-p_2,4,1740,0,2,-,-,-,-,-,,
-8957c4c5-0e50-43f7-b43e-2cf5f43e3479,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,flying_in_the_sky_v1,2,8066,0,2,-,flying in the sky,-,-,-,,
-7cff7b0a-3907-4790-80a8-84dfcb8a5a79,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2-p_2,5,2430,0,3,-,-,-,-,-,,
-5c5ec24c-76d9-4c19-81d7-af07c8982cce,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,electric_shock_in_the_forearm,2,5641,0,2,-,-,-,-,-,,
+the vibration could be even more gentle than the lowest setting",-,right hand
+6177c95c-1edb-47d6-bda9-aee13c516e2a,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa22,flying_in_the_sky_v1,1,8066,0,2,"similar lenghs on highest setting to simulate high alitudes and string winds in the sky, fighting against winds",flying in the sky,"flying in the sky, placed under arms to simulate wing musculature movement, flapping arms up and down in order to glide in sky",-,"left upper arm,left forearm,right upper arm,right forearm"
+2cb8f9ff-8454-485d-9129-fd71ca329275,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa23,team_2-p_2,3,1748,0,2,-,-,-,-,-
+27709cbe-d00c-4307-9c24-134655ab8a23,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa23,team_2-p_2,4,1740,0,2,-,-,-,-,-
+8957c4c5-0e50-43f7-b43e-2cf5f43e3479,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,flying_in_the_sky_v1,2,8066,0,2,-,flying in the sky,-,-,-
+7cff7b0a-3907-4790-80a8-84dfcb8a5a79,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,team_2-p_2,5,2430,0,3,-,-,-,-,-
+5c5ec24c-76d9-4c19-81d7-af07c8982cce,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,electric_shock_in_the_forearm,2,5641,0,2,-,-,-,-,-
 26174be5-7152-4ebe-8953-7e5f23a5f8c2,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa22,flying_in_the_sky_v2,1,7800,0,2,"important to actually move arms with the vibration patterns to simulate fluidity of movement
-using a little bit of overlap generally achieves a more believable feeling of fluidity in tactons vs. very abrupt pattern with breaks in between",flying in the sky,"simulating ascend into the sky, start on lower intensity, short flaps with inner (upper arm) wings, then power off with outer wings (lower forearm), gradually up intensity of vibrations to achieve feeling of fighting against gravity, stronger winds, lifting off, gaining momentum, thrust",-,"left upper arm,left forearm,right upper arm,right forearm",,
-7668e50d-ae2b-41a2-9ad7-580866a27b27,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,16 applying a bandage,1,3558,0,3,-,-,-,-,-,,
-48762557-4a8e-45bf-92ea-1db08dc1c825,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,16 apply bandage,1,3503,0,3,wrap around actuators around left forearm. with one starting in the middle inside underneath the wrist and working its way around in the direction of the little finger.,-,creating the experience of a rap around bandage and have a repeating circular motion around the forearm. the pressure (vibration) is higher in the beginning when placing the first bit of the bandage and then increases over the three raps.,-,left forearm,,
-62a1f77d-1956-474e-9619-450389f06cf2,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,2sliding down,1,3533,0,3,-,-,-,-,-,,
-6400483a-cc77-4c0f-a741-116485e8b33b,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,2sliding down,2,6412,1,3,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 2: left foot big toe side, 3 right foot big toe side, 4 right foot little toe side",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt.","leftTopof Foot,rightTopofFoot",-,,
-81a8cc5b-089f-43c9-bda6-2e0c837540f8,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,5jumpingclouds,1,8793,0,3,-,-,-,-,-,,
-3c9457b0-881d-4d34-a332-27729acb232a,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,5jumpingclouds,2,7028,0,3,-,-,-,-,-,,
-fe9d7aa5-ac5d-4812-b941-9eb8ff7f8b1e,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,5jumpingclouds,3,7028,1,3,"actuators on top of feet, left and right, each two.",jumping on clouds,both feet simultaneously. higher intensity on clouds than mid air,"leftTopof Foot,rightTopofFoot",-,,
-3e3d8966-ca88-4e75-a98f-305f04316180,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,t2_t3_petting_a_dog,1,8218,1,4,we weren't able to explore the ease in and ease out effect because it is hard to change the amplitude. we also wanted to explore in the leg or on the side of the upper torso.,petting a dog,"we designed the tactons from the dog perspective. we placed the actuators in line starting with the actuator 1 near the shoulder, the 2 in the middle, 3 on the wrist and 4 on the hand. the pattern is divided in  to two sections, the first one is similuating when the human character is tapping on the dog leg and the second part when the character is sliing his hand along the dog's leg",-,"right forearm,right hand,right upper arm",,
-b93ab479-77f1-47e2-ad9b-34f9838e6237,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,t2_t3_petting_dog_v1,1,6541,0,4,"still a bit too abrupt but overall the placement feels more fitting, smaller area on not so sensitive area of the upper shoulder",petting a dog,"we wanted to simulate being the dog as well, but the placement should have been more on the shoulder instead of the whole arm. this way it feels more like a area pat on the dog's flanks and some scratching of the fur. the patting motion is conveyed through all actuators simultaneously while the first strokes ""move"" over the shoulder from front to back",-,right shoulder,,
-70a67cca-f279-4508-bafd-bcb6277aa2a2,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,team_1,1,3494,0,1,-,-,-,-,-,,
-8db86b6b-fbb9-4b18-8a25-55a68122e69e,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,team_1,2,5716,0,1,-,-,-,-,-,,
-ff4ca6dc-363a-4a9a-a33b-d011a42766aa,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,team_1,3,1047,0,1,-,-,-,-,-,,
-d5325449-dc32-415d-95fa-0d8a9d873d23,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,promt2,1,3123,0,1,-,-,-,-,-,,
-3a8b9128-489f-41af-bfd5-af52e4552b67,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,promt2,2,2921,0,1,-,-,-,-,-,,
-c2ad8e5b-e022-4d49-971c-ce516ade3fcf,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,3,9617,0,1,-,-,-,-,-,,
-31718d64-cbf3-400d-88a5-ff5660ddbffc,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,4,9617,0,1,-,-,-,-,-,,
-63a6e6ad-6649-4ec0-a3c1-841c31897668,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,5,9931,0,1,-,-,-,-,-,,
-a9f5cf9c-e41d-4554-9787-0cf5b3fcefc8,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,6,9474,0,1,-,-,-,-,-,,
-c914d6f2-dbd5-4f3f-8f4d-4ef0822b87fa,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,7,9716,0,1,-,-,-,-,-,,
-040ea115-7e08-42eb-818e-8314a4c637a0,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,drinking,8,2654,0,1,-,-,-,-,-,,
-bd57b707-b221-4701-94a9-0990f1c1ab78,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,eating,1,1865,0,1,-,-,-,-,-,,
-4958b3d0-41fe-4307-8656-5ddd8738df23,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,drinking,9,4543,0,1,-,-,-,-,-,,
-eed985d4-76fe-416d-ae81-4ca28c3a044d,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,petting a dog,1,3871,0,2,-,petting a dog,I wanted to create first a small petting and than 3 short strong pettings,-,-,,
-f48d90f3-d3a7-47d9-ab2d-f09e67fc01f9,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,Anchor,1,6442,0,2,"three actuators (palm too small for the 4th), the middle one glued with tape",raising an anchor,A certain rhythm that the wheel is being pushed and the resulting feeling on the palm,palm,left hand,,
-867e39a0-e9fb-4b6e-bd40-9d0f581080b7,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,Anchor 2,1,3594,0,2,-,-,-,-,-,,
-1d1daf72-a3f1-4a9c-a995-9190a70edc3a,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,spaceship control,1,4280,0,2,"backside of hands, maybe place a 4th actuator in palm",spaceship landing control,the rhythm of docking and bumping from the ground,-,left hand,,
-46d13134-ecaa-4b14-94e7-f37cdfb9bfd6,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,1,2336,0,2,-,-,-,-,-,,
-71af1c44-5255-4884-9a3c-6d2b5556f774,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,2,1441,0,2,-,-,-,-,-,,
-c51d6e3e-7320-4697-8869-eafacb8595ca,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,3,1734,0,2,-,-,-,-,-,,
-f7167f64-53cd-4b4a-a87c-2464bc9c95a1,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,4,1942,0,2,"next steps: improve timing precision, intensity developments from lower arm to hand actuator, what if actuators placed on muscle groups used to jump? (but/ calf), placement on foot (one more? where do you feel most/ best?)",jumping on clouds,"highlighting the jumping moment starting from the foot and adding the arms like when one is jumping in real life, the arms are lifted up to gain momentum, placement: on foot (sole) and 3 actuators on forearm",-,"left forearm,left lower leg",,
-195b287f-ed96-4651-bdf0-ff494af7b830,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,1,6170,0,3,-,-,-,-,-,,
-ac4e14e6-42dd-4385-bde1-a3100d9d6cf1,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,2,1676,0,3,-,-,-,-,-,,
-28ebb8c1-5742-414c-86a9-ca4e82223e83,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,3,1399,0,3,-,-,-,-,-,,
-38e7cf6f-c255-4df2-b75b-1c54e4ebd460,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,4,1236,0,3,-,-,-,-,-,,
-0741a945-75b4-449a-836c-9fb8491bb8ba,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,5,1743,0,3,-,-,-,-,-,,
-af87a753-59bb-42ae-bff7-b1df6580a904,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,6,7199,1,3,try faster movement,using a powerwash,"same os powerwash #9, but with an initial ""loading"" cycle",palm,"right forearm,right hand",,
-f130560d-0b0e-488f-8180-f8cb769f80ca,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,7,6633,0,3,-,-,-,-,-,,
-55eaf1f2-dd21-4032-9d91-28be1e997655,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,8,5738,0,3,-,-,-,-,-,,
-9dcb8263-95b3-4bce-a6ec-2833b85a8a8c,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,9,2798,1,3,"three actuators places on the forearm (no 1 closest to the ellbow), one actuator placed on the palm near the bottom of the thumb, the actuators are placed in a zick-zack pattern and not in a straight line to resemble the power washer going back and forth",using a powerwash,"showcase the water running through the device, taking the forearm as a reference resembling the pipe.",palm,"right forearm,right hand",,
-24ffc675-ba85-4697-b3e7-3881f558e429,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,10,2798,0,3,-,-,-,-,-,,
-be0ba339-31fa-481f-afa3-8b5566c83194,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,1,766,0,3,-,-,-,-,-,,
-248766d5-2937-4eb7-90f2-9b267a287870,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,2,810,0,3,-,-,-,-,-,,
-940dd00f-4972-4035-bf73-00d565b117e5,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,3,9960,0,3,-,-,-,-,-,,
-1ae6be7d-5107-46f9-9e76-0a01c919147c,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,4,10002,0,3,-,-,-,-,-,,
-63f15829-e8bc-4bd7-8830-9069cdbd3be4,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,5,10002,0,3,-,-,-,-,-,,
-dec1a6ec-219a-4c0b-a7d6-a7946c6fcd63,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,6,10002,0,3,-,-,-,-,-,,
-42ac74fa-6c8b-44e5-b709-8410d923c0e2,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,7,9458,0,3,-,-,-,-,-,,
-947f54d5-62dd-4fa0-8c50-6f8f3649a714,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,8,10002,0,3,-,-,-,-,-,,
-d0f79f0e-597c-4314-b2da-a503f729045a,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,9,165,0,3,-,-,-,-,-,,
-bd110051-b569-41b1-8871-e74ddf6d2e34,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,10,173,0,3,-,-,-,-,-,,
-c69afd7b-4d14-4f24-8b09-1c6baa9eda15,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,11,9773,0,3,-,-,-,-,-,,
-e23ab370-e030-489f-8592-e494cd9fa086,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,12,10000,0,3,-,-,-,-,-,,
-f95484f1-8ab2-4661-98e5-588dce9a5cbc,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,13,9904,0,3,-,-,-,-,-,,
-ca2c3f2c-697d-4cf9-bd2b-a3b6b7f5a1fd,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,14,3497,0,3,-,-,-,-,-,,
-05fcdc00-f41e-4a3c-996a-1cbb03ae1953,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,15,3480,0,3,-,-,-,-,-,,
-13066a3f-bf26-4d6d-a186-e28ffcbe272f,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,16,8525,1,3,we found that the change between both hands with iterating a tackt works very well.,time is running out,"we wanted to have a signal that increses the stress level, by getting faster and decrease.",-,"right upper arm,right forearm,left upper arm,left forearm",,
+using a little bit of overlap generally achieves a more believable feeling of fluidity in tactons vs. very abrupt pattern with breaks in between",flying in the sky,"simulating ascend into the sky, start on lower intensity, short flaps with inner (upper arm) wings, then power off with outer wings (lower forearm), gradually up intensity of vibrations to achieve feeling of fighting against gravity, stronger winds, lifting off, gaining momentum, thrust",-,"left upper arm,left forearm,right upper arm,right forearm"
+7668e50d-ae2b-41a2-9ad7-580866a27b27,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,16 applying a bandage,1,3558,0,3,-,-,-,-,-
+48762557-4a8e-45bf-92ea-1db08dc1c825,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,16 apply bandage,1,3503,0,3,wrap around actuators around left forearm. with one starting in the middle inside underneath the wrist and working its way around in the direction of the little finger.,-,creating the experience of a rap around bandage and have a repeating circular motion around the forearm. the pressure (vibration) is higher in the beginning when placing the first bit of the bandage and then increases over the three raps.,-,left forearm
+62a1f77d-1956-474e-9619-450389f06cf2,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,2sliding down,1,3533,0,3,-,-,-,-,-
+6400483a-cc77-4c0f-a741-116485e8b33b,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,2sliding down,2,6412,1,3,"actuators are placed on the inside and outside of each top of foot in the direction of the ankle. 1: left foot little toe side, 2: left foot big toe side, 3 right foot big toe side, 4 right foot little toe side",sliding_down,"continous skying like experience with both legs in the sand, but on variying intensity between each foot. constant resistance of the sand is felt.","leftTopof Foot,rightTopofFoot",-
+81a8cc5b-089f-43c9-bda6-2e0c837540f8,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,5jumpingclouds,1,8793,0,3,-,-,-,-,-
+3c9457b0-881d-4d34-a332-27729acb232a,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,5jumpingclouds,2,7028,0,3,-,-,-,-,-
+fe9d7aa5-ac5d-4812-b941-9eb8ff7f8b1e,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,5jumpingclouds,3,7028,1,3,"actuators on top of feet, left and right, each two.",jumping on clouds,both feet simultaneously. higher intensity on clouds than mid air,"leftTopof Foot,rightTopofFoot",-
+3e3d8966-ca88-4e75-a98f-305f04316180,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,t2_t3_petting_a_dog,1,8218,1,4,we weren't able to explore the ease in and ease out effect because it is hard to change the amplitude. we also wanted to explore in the leg or on the side of the upper torso.,petting a dog,"we designed the tactons from the dog perspective. we placed the actuators in line starting with the actuator 1 near the shoulder, the 2 in the middle, 3 on the wrist and 4 on the hand. the pattern is divided in  to two sections, the first one is similuating when the human character is tapping on the dog leg and the second part when the character is sliing his hand along the dog's leg",-,"right forearm,right hand,right upper arm"
+b93ab479-77f1-47e2-ad9b-34f9838e6237,2,4ec34f34-97f9-44b5-bc53-1a321aaaaa21,t2_t3_petting_dog_v1,1,6541,0,4,"still a bit too abrupt but overall the placement feels more fitting, smaller area on not so sensitive area of the upper shoulder",petting a dog,"we wanted to simulate being the dog as well, but the placement should have been more on the shoulder instead of the whole arm. this way it feels more like a area pat on the dog's flanks and some scratching of the fur. the patting motion is conveyed through all actuators simultaneously while the first strokes ""move"" over the shoulder from front to back",-,right shoulder
+70a67cca-f279-4508-bafd-bcb6277aa2a2,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,team_1,1,3494,0,1,-,-,-,-,-
+8db86b6b-fbb9-4b18-8a25-55a68122e69e,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,team_1,2,5716,0,1,-,-,-,-,-
+ff4ca6dc-363a-4a9a-a33b-d011a42766aa,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,team_1,3,1047,0,1,-,-,-,-,-
+d5325449-dc32-415d-95fa-0d8a9d873d23,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,promt2,1,3123,0,1,-,-,-,-,-
+3a8b9128-489f-41af-bfd5-af52e4552b67,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,promt2,2,2921,0,1,-,-,-,-,-
+c2ad8e5b-e022-4d49-971c-ce516ade3fcf,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,3,9617,0,1,-,-,-,-,-
+31718d64-cbf3-400d-88a5-ff5660ddbffc,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,4,9617,0,1,-,-,-,-,-
+63a6e6ad-6649-4ec0-a3c1-841c31897668,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,5,9931,0,1,-,-,-,-,-
+a9f5cf9c-e41d-4554-9787-0cf5b3fcefc8,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,6,9474,0,1,-,-,-,-,-
+c914d6f2-dbd5-4f3f-8f4d-4ef0822b87fa,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,drinking,7,9716,0,1,-,-,-,-,-
+040ea115-7e08-42eb-818e-8314a4c637a0,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,drinking,8,2654,0,1,-,-,-,-,-
+bd57b707-b221-4701-94a9-0990f1c1ab78,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,eating,1,1865,0,1,-,-,-,-,-
+4958b3d0-41fe-4307-8656-5ddd8738df23,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,drinking,9,4543,0,1,-,-,-,-,-
+eed985d4-76fe-416d-ae81-4ca28c3a044d,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,petting a dog,1,3871,0,2,-,petting a dog,I wanted to create first a small petting and than 3 short strong pettings,-,-
+f48d90f3-d3a7-47d9-ab2d-f09e67fc01f9,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa12,Anchor,1,6442,0,2,"three actuators (palm too small for the 4th), the middle one glued with tape",raising an anchor,A certain rhythm that the wheel is being pushed and the resulting feeling on the palm,palm,left hand
+867e39a0-e9fb-4b6e-bd40-9d0f581080b7,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,Anchor 2,1,3594,0,2,-,-,-,-,-
+1d1daf72-a3f1-4a9c-a995-9190a70edc3a,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,spaceship control,1,4280,0,2,"backside of hands, maybe place a 4th actuator in palm",spaceship landing control,the rhythm of docking and bumping from the ground,-,left hand
+46d13134-ecaa-4b14-94e7-f37cdfb9bfd6,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,1,2336,0,2,-,-,-,-,-
+71af1c44-5255-4884-9a3c-6d2b5556f774,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,2,1441,0,2,-,-,-,-,-
+c51d6e3e-7320-4697-8869-eafacb8595ca,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,3,1734,0,2,-,-,-,-,-
+f7167f64-53cd-4b4a-a87c-2464bc9c95a1,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,cloud jumping,4,1942,0,2,"next steps: improve timing precision, intensity developments from lower arm to hand actuator, what if actuators placed on muscle groups used to jump? (but/ calf), placement on foot (one more? where do you feel most/ best?)",jumping on clouds,"highlighting the jumping moment starting from the foot and adding the arms like when one is jumping in real life, the arms are lifted up to gain momentum, placement: on foot (sole) and 3 actuators on forearm",-,"left forearm,left lower leg"
+195b287f-ed96-4651-bdf0-ff494af7b830,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,1,6170,0,3,-,-,-,-,-
+ac4e14e6-42dd-4385-bde1-a3100d9d6cf1,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,2,1676,0,3,-,-,-,-,-
+28ebb8c1-5742-414c-86a9-ca4e82223e83,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,3,1399,0,3,-,-,-,-,-
+38e7cf6f-c255-4df2-b75b-1c54e4ebd460,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,4,1236,0,3,-,-,-,-,-
+0741a945-75b4-449a-836c-9fb8491bb8ba,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,5,1743,0,3,-,-,-,-,-
+af87a753-59bb-42ae-bff7-b1df6580a904,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,6,7199,1,3,try faster movement,using a powerwash,"same os powerwash #9, but with an initial ""loading"" cycle",palm,"right forearm,right hand"
+f130560d-0b0e-488f-8180-f8cb769f80ca,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,7,6633,0,3,-,-,-,-,-
+55eaf1f2-dd21-4032-9d91-28be1e997655,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,8,5738,0,3,-,-,-,-,-
+9dcb8263-95b3-4bce-a6ec-2833b85a8a8c,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,9,2798,1,3,"three actuators places on the forearm (no 1 closest to the ellbow), one actuator placed on the palm near the bottom of the thumb, the actuators are placed in a zick-zack pattern and not in a straight line to resemble the power washer going back and forth",using a powerwash,"showcase the water running through the device, taking the forearm as a reference resembling the pipe.",palm,"right forearm,right hand"
+24ffc675-ba85-4697-b3e7-3881f558e429,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,using a powerwash,10,2798,0,3,-,-,-,-,-
+be0ba339-31fa-481f-afa3-8b5566c83194,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,1,766,0,3,-,-,-,-,-
+248766d5-2937-4eb7-90f2-9b267a287870,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,2,810,0,3,-,-,-,-,-
+940dd00f-4972-4035-bf73-00d565b117e5,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,3,9960,0,3,-,-,-,-,-
+1ae6be7d-5107-46f9-9e76-0a01c919147c,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,4,10002,0,3,-,-,-,-,-
+63f15829-e8bc-4bd7-8830-9069cdbd3be4,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,5,10002,0,3,-,-,-,-,-
+dec1a6ec-219a-4c0b-a7d6-a7946c6fcd63,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,6,10002,0,3,-,-,-,-,-
+42ac74fa-6c8b-44e5-b709-8410d923c0e2,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,7,9458,0,3,-,-,-,-,-
+947f54d5-62dd-4fa0-8c50-6f8f3649a714,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,8,10002,0,3,-,-,-,-,-
+d0f79f0e-597c-4314-b2da-a503f729045a,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,9,165,0,3,-,-,-,-,-
+bd110051-b569-41b1-8871-e74ddf6d2e34,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,10,173,0,3,-,-,-,-,-
+c69afd7b-4d14-4f24-8b09-1c6baa9eda15,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,11,9773,0,3,-,-,-,-,-
+e23ab370-e030-489f-8592-e494cd9fa086,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,12,10000,0,3,-,-,-,-,-
+f95484f1-8ab2-4661-98e5-588dce9a5cbc,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,13,9904,0,3,-,-,-,-,-
+ca2c3f2c-697d-4cf9-bd2b-a3b6b7f5a1fd,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,14,3497,0,3,-,-,-,-,-
+05fcdc00-f41e-4a3c-996a-1cbb03ae1953,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,15,3480,0,3,-,-,-,-,-
+13066a3f-bf26-4d6d-a186-e28ffcbe272f,1,4ec34f34-97f9-44b5-bc53-1a321aaaaa11,time is runnung,16,8525,1,3,we found that the change between both hands with iterating a tackt works very well.,time is running out,"we wanted to have a signal that increses the stress level, by getting faster and decrease.",-,"right upper arm,right forearm,left upper arm,left forearm"
