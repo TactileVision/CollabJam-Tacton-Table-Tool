@@ -1,6 +1,10 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+#tt {
+	max-width: 800px;
+}
 .tacton-display { 
 
 	border: 1px solid pink;
@@ -16,4 +20,15 @@ body {
 	flex: 50%;
 	margin-right: 1em;
 
+}
+
+img {
+	width: 300px;
+	transition: transform .2s; /* Animation */
+
+}
+img:hover {
+	transform: scale(3);
+
+	background-color: white;
 }
